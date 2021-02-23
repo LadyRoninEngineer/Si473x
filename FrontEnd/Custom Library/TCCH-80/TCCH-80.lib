@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# TCCH-80
+#
+DEF TCCH-80 L 0 40 N Y 1 L N
+F0 "L" -200 -100 50 H V L BNN
+F1 "TCCH-80" -200 -200 50 H V L BNN
+F2 "GU1604" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 6 -100 0 -150 0 N
+P 2 0 0 6 100 0 150 0 N
+A -75 25 35 2250 3150 0 0 6 N -100 0 -50 0
+A -25 25 35 2250 3150 0 0 6 N -50 0 0 0
+A 25 25 35 2250 3150 0 0 6 N 0 0 50 0
+A 75 25 35 2250 3150 0 0 6 N 50 0 100 0
+X RF P$1 -150 0 0 U 40 40 0 0 P 
+X DC P$3 150 0 0 U 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

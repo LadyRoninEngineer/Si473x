@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD831APZ
+D Doubly Balanced monolithic Mixer, 500 MHz BW, +24 dBm, IP3, LNA and LO driver, PLCC-20
+K mixer rf
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD831.pdf
+$ENDCMP
+#
+#End Doc Library
