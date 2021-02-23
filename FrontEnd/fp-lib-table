@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name MAR6M)(type KiCad)(uri "${KIPRJMOD}/Custom Library/MAR6M")(options "")(descr ""))
+  (lib (name VLCF4018T2R2N1R42)(type KiCad)(uri "${KIPRJMOD}/Custom Library/VLCF4018T2R2N1R42")(options "")(descr ""))
+  (lib (name TCCH-80)(type KiCad)(uri "${KIPRJMOD}/Custom Library/TCCH-80")(options "")(descr ""))
+  (lib (name CD54NP220MC)(type KiCad)(uri "${KIPRJMOD}/Custom Library/CD54NP220MC")(options "")(descr ""))
+)

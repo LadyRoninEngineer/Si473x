@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name ad831apz)(type Legacy)(uri "${KIPRJMOD}/Custom Library/AD831APZ/ad831apz.lib")(options "")(descr ""))
+  (lib (name TPS6735IDR)(type Legacy)(uri "${KIPRJMOD}/Custom Library/TPS6735IDR/TPS6735IDR.lib")(options "")(descr ""))
+  (lib (name 2021-02-13_15-13-37)(type Legacy)(uri "${KIPRJMOD}/Custom Library/ul_TPS61080DRCTG4/2021-02-13_15-13-37.lib")(options "")(descr ""))
+  (lib (name TCCH-80)(type Legacy)(uri "${KIPRJMOD}/Custom Library/TCCH-80/TCCH-80.lib")(options "")(descr ""))
+  (lib (name 2021-02-21_17-50-13)(type Legacy)(uri "${KIPRJMOD}/Custom Library/PE4312CZ/2021-02-21_17-50-13.lib")(options "")(descr ""))
+)
