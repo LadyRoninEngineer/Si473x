@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name ATSAMD21G18A-AU)(type Legacy)(uri /Volumes/HTx/ERIS/Hardware/Custom_Library/ATSAMD21G18A-AU/ATSAMD21G18A-AU.lib)(options "")(descr ""))
-  (lib (name SJ1-3513-SMT)(type Legacy)(uri ${KIPRJMOD}/CustomLibrary/SJ1-3513-SMT/SJ1-3513-SMT.lib)(options "")(descr ""))
-  (lib (name B3U-1000P)(type Legacy)(uri ${KIPRJMOD}/CustomLibrary/B3U-1000P/B3U-1000P.lib)(options "")(descr ""))
-)
