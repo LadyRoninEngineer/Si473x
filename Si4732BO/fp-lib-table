@@ -1,5 +1,0 @@
-(fp_lib_table
-  (lib (name SJ1-3513-SMT)(type KiCad)(uri ${KIPRJMOD}/CustomLibrary/SJ1-3513-SMT)(options "")(descr ""))
-  (lib (name B3U-1000P)(type KiCad)(uri ${KIPRJMOD}/CustomLibrary/B3U-1000P)(options "")(descr ""))
-  (lib (name Grayhill_87_Series)(type KiCad)(uri ${KIPRJMOD}/CustomLibrary/Grayhill_87_Series)(options "")(descr ""))
-)
