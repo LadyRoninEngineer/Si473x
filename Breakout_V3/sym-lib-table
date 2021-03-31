@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name SJ1-3513-SMT)(type Legacy)(uri ${KIPRJMOD}/CustomLibrary/SJ1-3513-SMT/SJ1-3513-SMT.lib)(options "")(descr ""))
+  (lib (name B3U-1000P)(type Legacy)(uri ${KIPRJMOD}/CustomLibrary/B3U-1000P/B3U-1000P.lib)(options "")(descr ""))
+  (lib (name 2021-01-29_21-35-15)(type Legacy)(uri ${KIPRJMOD}/CustomLibrary/ul_NFM21PS106B0J3D/2021-01-29_21-35-15.lib)(options "")(descr ""))
+)

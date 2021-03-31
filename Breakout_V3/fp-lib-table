@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name SJ1-3513-SMT)(type KiCad)(uri ${KIPRJMOD}/CustomLibrary/SJ1-3513-SMT)(options "")(descr ""))
+  (lib (name B3U-1000P)(type KiCad)(uri ${KIPRJMOD}/CustomLibrary/B3U-1000P)(options "")(descr ""))
+  (lib (name NFM21PS106B0J3D)(type KiCad)(uri ${KIPRJMOD}/CustomLibrary/NFM21PS106B0J3D)(options "")(descr ""))
+  (lib (name 1776275-2)(type KiCad)(uri ${KIPRJMOD}/CustomLibrary/1776275-2)(options "")(descr ""))
+)
