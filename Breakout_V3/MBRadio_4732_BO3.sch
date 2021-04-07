@@ -1059,7 +1059,7 @@ Wire Notes Line
 Wire Notes Line
 	2050 3050 2050 1650
 Text Notes 650  3000 0    50   Italic 0
-32758Hz TXCO 
+32768Hz TXCO 
 Wire Wire Line
 	6150 1800 6150 1900
 Wire Wire Line
