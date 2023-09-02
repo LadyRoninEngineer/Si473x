@@ -15,8 +15,8 @@
     (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd") (tstamp a2320bc7-8ab9-4b72-9a8b-42e27293a272))
   (fp_circle (center 0 0) (end 1.55 0)
     (stroke (width 0.127) (type solid)) (fill none) (layer "F.Fab") (tstamp b1c0209c-2d15-47e3-9470-24ac4cac1395))
-  (pad "1" thru_hole circle (at -0.55 0) (size 0.9 0.9) (drill 0.55) (layers "*.Cu" "*.Mask") (tstamp bf939af1-f3e6-4dd4-a720-1e189784d7d2))
-  (pad "2" thru_hole circle (at 0.55 0) (size 0.9 0.9) (drill 0.55) (layers "*.Cu" "*.Mask") (tstamp 4f69d163-eaee-47e8-8df4-79fabd03e6bf))
+  (pad "1" thru_hole circle (at -0.75 0) (size 1 1) (drill 0.55) (layers "*.Cu" "*.Mask") (tstamp bf939af1-f3e6-4dd4-a720-1e189784d7d2))
+  (pad "2" thru_hole circle (at 0.75 0) (size 1 1) (drill 0.55) (layers "*.Cu" "*.Mask") (tstamp 4f69d163-eaee-47e8-8df4-79fabd03e6bf))
   (model "${KIPRJMOD}/CustomLibrary/ECS27/ECS-.327-12.5-8X-C.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
