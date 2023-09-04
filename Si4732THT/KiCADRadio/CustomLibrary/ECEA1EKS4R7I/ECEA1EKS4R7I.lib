@@ -1,0 +1,34 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# ECEA1EKS4R7I
+#
+DEF ECEA1EKS4R7I C 0 40 N N 1 L N
+F0 "C" -100 150 50 H V L BNN
+F1 "ECEA1EKS4R7I" -100 -200 50 H V L BNN
+F2 "CAPPRD250W45D400H500" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "PANASONIC" 0 0 50 H I L BNN "MF"
+F5 "0.5" 0 0 50 H I L BNN "b_max"
+F6 "KS-A" 0 0 50 H I L BNN "DESCRIPTION"
+F7 "0.45" 0 0 50 H I L BNN "b_nom"
+F8 "28-FEB-20" 0 0 50 H I L BNN "PARTREV"
+F9 "5" 0 0 50 H I L BNN "A_max"
+F10 "4" 0 0 50 H I L BNN "D_nom"
+F11 "2.5" 0 0 50 H I L BNN "e_nom"
+DRAW
+A 233 0 174 1450 2150 0 0 10 N 90 100 90 -100
+P 2 0 0 10 20 100 20 0 N
+S -46 -60 -11 -55 0 0 0 F
+S -31 -75 -26 -40 0 0 0 F
+P 2 0 0 10 20 0 20 -100 N
+P 2 0 0 6 0 0 20 0 N
+P 2 0 0 6 100 0 60 0 N
+X ~ P -100 0 100 R 40 40 0 0 P 
+X ~ N 200 0 100 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
