@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CR1220")(type "KiCad")(uri "${KIPRJMOD}/CustomLibrary/CR1220")(options "")(descr ""))
+  (lib (name "RT3215")(type "KiCad")(uri "${KIPRJMOD}/CustomLibrary/RT3215")(options "")(descr ""))
+)
